@@ -1,6 +1,6 @@
 # IMDB-Review-Classifier
 
-The project is an IMDB review classifier that uses the machine learning algorithms: MLP (Multi-Layer Perceptron), Random Forest and AdaBoost, to classify movie reviews as positive or negative. The project structure includes scripts for training and evaluating these models, as well as data files for training.
+The project is an IMDb review classifier that uses the machine learning algorithms: MLP (Multi-Layer Perceptron), Random Forest and AdaBoost, to classify movie reviews as positive or negative. The project structure includes scripts for training and evaluating these models, as well as data files for training.
 
 ## Project Structure
 - **Main.py**: Calculates the total frequency of each word in the vocabulary based on the labeled term frequency data from the input files. Specifically, it reads a labeled term frequency file and a vocabulary file, then processes these files to compute how often each word in the vocabulary appears across the entire dataset.
