@@ -2,53 +2,6 @@
 
 This project implements various machine learning models to classify IMDB reviews as positive or negative. The models include Multi-Layer Perceptron (MLP), Random Forest, and AdaBoost.
 
-## Project Structure
-
-├── 
-
-Main.py
-
-
-├── 
-
-MLPword_embeddings.py
-
-
-├── 
-
-MLPword_embeddingWorking.py
-
-
-├── RandomForest/
-│   ├── 
-
-id3.py
-
-
-│   ├── 
-
-RandomForest.py
-
-
-│   ├── SKlearn_RandomForest.py
-├── 
-
-README.md
-
-
-├── 
-
-Report.docx
-
-
-├── traindataframes/
-│   ├── negative_m500_n21_k25720.csv
-│   ├── positive_m500_n21_k25720.csv
-└── ΑdaBoost/
-    ├── adaboost.py
-    ├── mainAB.py
-    └── Scikit-learn_mainAB.py
-
 ## Requirements
 
 - Python 3.x
