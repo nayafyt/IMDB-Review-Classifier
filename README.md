@@ -33,5 +33,5 @@ The project is an IMDB review classifier that uses the machine learning algorith
 - **Pandas**: Used for data manipulation and analysis.
 - **Matplotlib**: Used for plotting learning curves and metrics.
 
-## Usage
+## How to Run
 To train and evaluate the models, you should run the scripts in the respective directories. For example, to evaluate the MLP model, you might run `MLPword_embeddings.py`. For AdaBoost, you might run `ΑdaBoost/Scikit-learn_mainAB.py` or `mainAB.py`.
