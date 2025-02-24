@@ -7,7 +7,7 @@ The project is an IMDb review classifier that uses the machine learning algorith
 - **MLPword_embeddings.py**: Contains code for training and evaluating an MLP model using word embeddings.
 - **RandomForest/**: Directory containing scripts related to the Random Forest algorithm.
   - **id3.py**
-  - **RandomForest.py** custom RandomForest algorithm with ID3 decision trees
+  - **RandomForest.py** custom RandomForest algorithm using custom ID3 to create decision trees
   - **SKlearn_RandomForest.py** uses scikit-learn's built-in RandomForest classifier
 - **Report.docx**: Project details and results.
 - **traindataframes/**: Directory containing training data files.
